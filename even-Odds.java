@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 318A-Even-Odds{
+public class even-Odds{
 
 	public static void main(String[] args) {
 		
