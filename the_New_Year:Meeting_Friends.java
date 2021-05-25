@@ -2,7 +2,7 @@ import java.util.Collections;
 import java.util.Scanner;
 import  java.util.ArrayList;
 import  java.util.Collection;
-public class Main {
+public class the_New_Year:Meeting_Friends {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
