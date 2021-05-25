@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class A_Gravity_Flip {
+public class gravity_Flip {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
