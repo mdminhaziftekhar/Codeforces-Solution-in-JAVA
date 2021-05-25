@@ -1,8 +1,7 @@
 import java.util.*;
-public class I_love_username {
+public class i_love_username {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		Scanner scan = new Scanner(System.in);
 		
