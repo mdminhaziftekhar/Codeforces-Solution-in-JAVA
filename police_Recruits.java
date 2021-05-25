@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class main {
+public class police_Recruits {
 	public static void main(String[] args) {
 		
 		Scanner scan = new Scanner(System.in);
