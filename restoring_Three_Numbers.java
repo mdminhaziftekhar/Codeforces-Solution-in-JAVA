@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class main {
+public class restoring_Three_Numbers {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		
