@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class 486A-Calculating-Function{
+public class calculating-Function {
 
 	public static void main(String[] args) {
 		
