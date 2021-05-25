@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class main {
+public class yet_Another_Two_Integers_Problem {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
