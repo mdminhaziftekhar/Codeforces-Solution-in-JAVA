@@ -1,5 +1,5 @@
 import java.util.*;
-public class New_Year_and_Hurry {
+public class new-Year-and-Hurry {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
