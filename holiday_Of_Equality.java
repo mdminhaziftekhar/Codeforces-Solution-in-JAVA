@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Holiday_Of_Equality {
+public class holiday_Of_Equality {
 
     public static void main(String[] args) {
 	    Scanner scan = new Scanner(System.in);
